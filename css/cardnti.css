@@ -1,0 +1,7 @@
+.cardnti {
+    transition: transform .2s;
+}
+
+.cardnti:hover {
+    transform: scale(1.1);
+}
